@@ -1,0 +1,24 @@
+{
+  "name": "volume",
+  "version": "1.0.0",
+  "description": "Docker_volume_test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Docker_volume_test"
+  ],
+  "author": "TSS",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.16.2",
+    "express": "^4.17.1",
+    "node-fetch": "^2.6.1",
+    "react": "latest",
+    "react-dom": "latest",
+    "react-router": "^5.2.0",
+    "react-router-dom": "^5.2.0",
+    "react-scripts": "1.0.13"
+  }
+}
